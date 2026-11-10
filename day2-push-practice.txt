@@ -1,0 +1,6 @@
+My Git Learning Journey
+
+Day 2:
+I learned about Git remotes.
+I learned how to push commits to GitHub.
+My goal is to become a AI Engineer /Data Scientist.
