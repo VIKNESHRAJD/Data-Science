@@ -1,0 +1,5 @@
+My Git Learning Journey
+
+Day 1: 
+I Re-learned how to check repository status.
+I Re-learned how to view commit history.
